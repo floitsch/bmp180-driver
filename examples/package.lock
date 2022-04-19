@@ -1,0 +1,5 @@
+prefixes:
+  bmp180: ..
+packages:
+  ..:
+    path: ..
