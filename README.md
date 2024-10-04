@@ -1,2 +1,2 @@
 # BMP180
-Driver for the Bosch BMP180 environmental sensor
+Driver for the Bosch BMP180 environmental sensor.

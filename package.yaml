@@ -1,0 +1,2 @@
+name: bmp180
+description: Driver for the Bosch BMP180 environmental sensor.
