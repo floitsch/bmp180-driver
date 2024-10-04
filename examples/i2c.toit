@@ -7,9 +7,9 @@ main:
     --sda=gpio.Pin 21
     --scl=gpio.Pin 22
 
-  device := bus.device bmp180.I2C_ADDRESS
+  device := bus.device bmp180.I2C-ADDRESS
 
   driver := bmp180.Driver device
 
-  print "$driver.read_temperature C"
-  print "$driver.read_pressure Pa"
+  print "$driver.read-temperature C"
+  print "$driver.read-pressure Pa"
